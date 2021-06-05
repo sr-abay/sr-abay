@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on MVPs 
 - 📫 How to reach me 
-      mail me : sabayankar@gmail.com
-      LinkedIn : https://www.linkedin.com/in/shree-ram-abayankar-b-5249481a1
+    >>  mail me : sabayankar@gmail.com
+    >> LinkedIn : https://www.linkedin.com/in/shree-ram-abayankar-b-5249481a1
 Happy Coding!!!      
       
 
