@@ -11,10 +11,10 @@
     -  mail me : sabayankar@gmail.com
     - LinkedIn : https://www.linkedin.com/in/shree-ram-abayankar-b-5249481a1
 -Other than Developing my skills include
-   -Public speaking🗣
-   -Leadership👨‍⚖️
-   -Strategy 👨‍💻
-   -Giving Presentations🤘
+-Public speaking🗣
+-Leadership👨‍⚖️
+-Strategy 👨‍💻
+-Giving Presentations🤘
 -Happy Coding!!!👨‍💻👩‍💻👨‍💻👩‍💻    
       
 
