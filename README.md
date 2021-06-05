@@ -1,6 +1,5 @@
 
 - 👋 Hi, I’m Shree Ram Abayankar [@sr-abay]
--
 
 - 👀 I’m interested in Full Stack Development, Cyber Security.
 
