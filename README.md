@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on MVPs,Hackathons and group project 
 - 📫 How to reach me 
     -  mail me : sabayankar@gmail.com
-    - LinkedIn : https://www.linkedin.com/in/shree-ram-abayankar-b-5249481a1
+    - LinkedIn : https://www.linkedin.com/in/sr-abay/
 -Other than Developing my skills include
 -Public speaking🗣
 -Leadership👨‍⚖️
