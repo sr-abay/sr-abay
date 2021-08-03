@@ -1,17 +1,28 @@
 
-- 👋 Hi, I’m Shree Ram Abayankar [@sr-abay]
-- 👀 I’m interested in Full Stack Development, Cyber Security.
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on MVPs,Hackathons and group project 
+- 👋 Hi, I’m Shree Ram Abayankar from 🌍
+- 👀 I’m interested in <br>
+        <b>-Full Stack Development<br>
+           -Cyber Security<br>
+           -Data Science <br>
+           -ML Ops<br>
+        </b>
+- 💞️ I’m looking to collaborate on MVPs,Hackathons and group project. 
 - 📫 How to reach me 
-    -  mail me : sabayankar@gmail.com
-    - LinkedIn : https://www.linkedin.com/in/sr-abay/
--Other than Developing my skills include
--Public speaking🗣
--Leadership👨‍⚖️
--Strategy 👨‍💻
--Giving Presentations🤘
--Happy Coding!!!👨‍💻👩‍💻👨‍💻👩‍💻    
+    -  mail me  :sabayankar@gmail.com
+    - LinkedIn  :https://www.linkedin.com/in/sr-abay/
+    - Credly    :https://www.credly.com/users/sr16abay/badges
+ <br>
+<h2>My  skills include<br></h2>
+-Team management and Leadership<br>
+-Public speaking🗣<br>
+-Leadership👨‍⚖️<br>
+-Strategy 👨‍💻<br>
+-Giving Presentations🤘<br>
+-Happy Coding!!!👨‍💻👩‍💻👨‍💻👩‍💻 <br>   <br><br>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sr-abay.sr-abay)
+![score](https://gitwar.herokuapp.com/badge?username=sr-abay&color=green&style=plastic&label=profile+score)
       
 
 <!---
