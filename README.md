@@ -22,7 +22,7 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sr-abay.sr-abay)
-![score](https://gitwar.herokuapp.com/badge?username=sr-abay&color=green&style=plastic&label=profile+score)
+
       
 
 <!---
