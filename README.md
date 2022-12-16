@@ -1,11 +1,11 @@
 
 - 👋 Hi, I’m Shree Ram Abayankar from 🌍
-- 👀 I’m interested in <br>
+<!-- - 👀 I’m interested in <br>
         <b>-Full Stack Development<br>
            -Cyber Security<br>
            -Data Science <br>
            -ML Ops<br>
-        </b>
+        </b> -->
 - 💞️ I’m looking to collaborate on MVPs,Hackathons and group project. 
 - 📫 How to reach me 
     -  mail me  :sabayankar@gmail.com
