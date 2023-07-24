@@ -19,11 +19,7 @@
 -Strategy 👨‍💻<br>
 -Giving Presentations🤘<br>
 -Happy Coding!!!👨‍💻👩‍💻👨‍💻👩‍💻 <br>   <br><br>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sr-abay.sr-abay)
-
-      
+     
 
 <!---
 sr-abay/sr-abay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
